@@ -14,7 +14,7 @@ Install dependencies
 ```
 npm i
 ```
-Cope config from template
+Copy config from template
 ```
 cp ./_config.ts ./config.ts
 ```
