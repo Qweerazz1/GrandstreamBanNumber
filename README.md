@@ -1,4 +1,4 @@
-Install node js and npm
+Install node js and npm.
 Dev versions:
 ```
 > node -v
